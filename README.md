@@ -1,6 +1,6 @@
 # android operating system
 
-[![android operating system](gett-detail.png)](https://github.com/minit0ol/android-operating-system)
+[![android operating system](gett-detail.png)](https://icncomputer.com/android-operating-system/)
 
 The Android operating system is a mobile operating system that was developed by Google to be primarily used for touchscreen devices, cell phones, and tablets. Its design lets users manipulate the mobile devices intuitively, with finger movements that mirror common motions, such as pinching, swiping, and tapping. Google also employs Android software in televisions, cars, and wristwatches—each of which is fitted with a unique user interface.
 
